@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<urlset xmlns="http://www.google.com/schemas/sitemap/0.84" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+		<url>
+			<loc>https://toolsmasteronline.com/</loc>
+			<changefreq>weekly</changefreq>
+		</url>
+
+		<url>
+			<loc>https://toolsmasteronline.com/youtubedownloader</loc>
+			<changefreq>weekly</changefreq>
+		</url>
+
+		<url>
+			<loc>https://toolsmasteronline.com/instagramdownloader</loc>
+			<changefreq>weekly</changefreq>
+		</url>
+
+		<url>
+			<loc>https://toolsmasteronline.com/facebookdownloader</loc>
+			<changefreq>weekly</changefreq>
+		</url>
+
+		<url>
+			<loc>https://toolsmasteronline.com/twitterdownloader</loc>
+			<changefreq>weekly</changefreq>
+		</url>
+
+		<url>
+			<loc>https://toolsmasteronline.com/tiktokdownloader</loc>
+			<changefreq>weekly</changefreq>
+		</url>
+		<url>
+			<loc>https://toolsmasteronline.com/Paraphrasing</loc>
+			<changefreq>weekly</changefreq>
+		</url>
+		<url>
+			<loc>https://toolsmasteronline.com/Sentiment</loc>
+			<changefreq>weekly</changefreq>
+		</url>
+		<url>
+			<loc>https://toolsmasteronline.com/KeywordExtraction</loc>
+			<changefreq>weekly</changefreq>
+		</url>
+		<url>
+			<loc>https://toolsmasteronline.com/Summarisation</loc>
+			<changefreq>weekly</changefreq>
+		</url>
+
+
+	</urlset>
+
